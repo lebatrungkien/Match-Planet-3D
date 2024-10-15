@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d65a918cd8ae4ad5adf1b758aca9375, type: 3}
+  m_Name: leveleditor
+  m_EditorClassIdentifier: 
+  LevelData:
+  - levelName: Level 1
+    minute: 1
+    seconds: 30
+    scale: 1.2
+    TotalObjects:
+    - {fileID: 5150041876218519229, guid: 17ecee8b1ecf3754eb91d3d05977aa7f, type: 3}
+  - levelName: Level 2
+    minute: 1
+    seconds: 30
+    scale: 1
+    TotalObjects:
+    - {fileID: 5150041876218519229, guid: 17ecee8b1ecf3754eb91d3d05977aa7f, type: 3}
+    - {fileID: 4167331242565517331, guid: 1cb403090ae5c5f44be61f03d452eee3, type: 3}
+    - {fileID: 9215198215451892907, guid: f0eb44a923dc7f14f9cc6139702b4fad, type: 3}
+  - levelName: Level 3
+    minute: 2
+    seconds: 30
+    scale: 1
+    TotalObjects:
+    - {fileID: 8282008758142349769, guid: f582c3f9a59b91e4b908e6572857fa8c, type: 3}
+    - {fileID: 9215198215451892907, guid: f0eb44a923dc7f14f9cc6139702b4fad, type: 3}
+    - {fileID: 4167331242565517331, guid: 1cb403090ae5c5f44be61f03d452eee3, type: 3}
+    - {fileID: 5150041876218519229, guid: 17ecee8b1ecf3754eb91d3d05977aa7f, type: 3}
+  - levelName: Level 4
+    minute: 2
+    seconds: 30
+    scale: 0.85
+    TotalObjects:
+    - {fileID: 8869580071340371771, guid: 1bef4746feb25434683477b9548752df, type: 3}
+    - {fileID: 2706207838253160496, guid: 4687f06f993c64e44badb4484ef434dc, type: 3}
+    - {fileID: 6804183200994847019, guid: 90548c7c12c53bb4fb413bed785c0f2a, type: 3}
+    - {fileID: 3898637956639126770, guid: 1a5f196d83f61fa4b9616f2de8f2938f, type: 3}
+    - {fileID: 7200210794674738875, guid: 465aaf8a590b03a429e20ee23a0fdde5, type: 3}
+    - {fileID: 2824282245228113734, guid: 26c9342f9e7faef4bbed202a68395ca1, type: 3}
+    - {fileID: 1373240428354554602, guid: 3e690b49dd6e3d3408c56dea6e719ea6, type: 3}
+    - {fileID: 6909012444750233950, guid: e129e097b54f2224dafbb3986df917d3, type: 3}
+    - {fileID: 9040382039555074237, guid: b9d046f4c7bc9d849bd25283b4cc3007, type: 3}
+  - levelName: Level 5
+    minute: 2
+    seconds: 30
+    scale: 0.85
+    TotalObjects:
+    - {fileID: 156525747288865422, guid: 13b06dcc217a6d748a6521d1ea59a9b3, type: 3}
+    - {fileID: 2706207838253160496, guid: 4687f06f993c64e44badb4484ef434dc, type: 3}
+    - {fileID: 8413198043049832429, guid: 1b21629f0fc6ea146bbdcbf9e86dac94, type: 3}
+    - {fileID: 2475006633052269160, guid: 736e947707616d8448c904f4ea76d57e, type: 3}
+    - {fileID: 6527418917415099103, guid: a635ed851e3bc5349b123d32ea595336, type: 3}
+    - {fileID: 884488408935512057, guid: a398ee277ab1c474fa34dc2db3a0a289, type: 3}
+    - {fileID: 243844985406044777, guid: b78d9826f9f722b438931db6446b620e, type: 3}
+    - {fileID: 802799876005893919, guid: d214e8a982f9d624992c0824fd336b1e, type: 3}
+  - levelName: Level 6
+    minute: 2
+    seconds: 30
+    scale: 0.7
+    TotalObjects:
+    - {fileID: 2770130374666807305, guid: 4c87a698956dde242b0b446ee7b507e1, type: 3}
+    - {fileID: 2255403945399151600, guid: ad68b001c2030b049832d971102c4cfc, type: 3}
+    - {fileID: 156525747288865422, guid: 13b06dcc217a6d748a6521d1ea59a9b3, type: 3}
+    - {fileID: 5339169700863624158, guid: c8b765354ee8089448e9bc069b338d72, type: 3}
+    - {fileID: 8929672955046981470, guid: db1230da49daa2e4fae12ad77f5b264f, type: 3}
+    - {fileID: 6526217650097976477, guid: 88a2cd073091aba40a8c182855cbb6dc, type: 3}
+    - {fileID: 4872304392028932528, guid: 0627f3167435b1c42a2ed942b8fabbbc, type: 3}
+    - {fileID: 8536356754121545781, guid: 0e130dee7230db644a3c8cae09fef9e5, type: 3}
+    - {fileID: 6445955716421239425, guid: ea86f4185fcf5ce4fa5689578265044a, type: 3}
+    - {fileID: 2824282245228113734, guid: 26c9342f9e7faef4bbed202a68395ca1, type: 3}
+    - {fileID: 1373240428354554602, guid: 3e690b49dd6e3d3408c56dea6e719ea6, type: 3}
+  - levelName: Level 7
+    minute: 2
+    seconds: 30
+    scale: 0.7
+    TotalObjects:
+    - {fileID: 5150041876218519229, guid: 17ecee8b1ecf3754eb91d3d05977aa7f, type: 3}
+    - {fileID: 4167331242565517331, guid: 1cb403090ae5c5f44be61f03d452eee3, type: 3}
+    - {fileID: 9215198215451892907, guid: f0eb44a923dc7f14f9cc6139702b4fad, type: 3}
+    - {fileID: 8282008758142349769, guid: f582c3f9a59b91e4b908e6572857fa8c, type: 3}
+    - {fileID: 3898637956639126770, guid: 1a5f196d83f61fa4b9616f2de8f2938f, type: 3}
+    - {fileID: 802799876005893919, guid: d214e8a982f9d624992c0824fd336b1e, type: 3}
+    - {fileID: 5785234102926429024, guid: 789de29b85fa565499e17840d05b2d45, type: 3}
+    - {fileID: 8413198043049832429, guid: 1b21629f0fc6ea146bbdcbf9e86dac94, type: 3}
+    - {fileID: 2475006633052269160, guid: 736e947707616d8448c904f4ea76d57e, type: 3}
+    - {fileID: 6526217650097976477, guid: 88a2cd073091aba40a8c182855cbb6dc, type: 3}
+  - levelName: Level 8
+    minute: 2
+    seconds: 30
+    scale: 0.7
+    TotalObjects:
+    - {fileID: 2770130374666807305, guid: 4c87a698956dde242b0b446ee7b507e1, type: 3}
+    - {fileID: 2255403945399151600, guid: ad68b001c2030b049832d971102c4cfc, type: 3}
+    - {fileID: 156525747288865422, guid: 13b06dcc217a6d748a6521d1ea59a9b3, type: 3}
+    - {fileID: 5339169700863624158, guid: c8b765354ee8089448e9bc069b338d72, type: 3}
+    - {fileID: 8929672955046981470, guid: db1230da49daa2e4fae12ad77f5b264f, type: 3}
+    - {fileID: 6526217650097976477, guid: 88a2cd073091aba40a8c182855cbb6dc, type: 3}
+    - {fileID: 1693228511013561479, guid: e05b8b36e27930c49a5c35234e07cb9e, type: 3}
+    - {fileID: 8616631959392101118, guid: 5bc538670537c4d469fde960fa5f3688, type: 3}
+    - {fileID: 802799876005893919, guid: d214e8a982f9d624992c0824fd336b1e, type: 3}
+    - {fileID: 5785234102926429024, guid: 789de29b85fa565499e17840d05b2d45, type: 3}
+  - levelName: Level 9
+    minute: 2
+    seconds: 0
+    scale: 0.6
+    TotalObjects:
+    - {fileID: 2770130374666807305, guid: 4c87a698956dde242b0b446ee7b507e1, type: 3}
+    - {fileID: 2255403945399151600, guid: ad68b001c2030b049832d971102c4cfc, type: 3}
+    - {fileID: 156525747288865422, guid: 13b06dcc217a6d748a6521d1ea59a9b3, type: 3}
+    - {fileID: 5339169700863624158, guid: c8b765354ee8089448e9bc069b338d72, type: 3}
+    - {fileID: 8929672955046981470, guid: db1230da49daa2e4fae12ad77f5b264f, type: 3}
+    - {fileID: 6526217650097976477, guid: 88a2cd073091aba40a8c182855cbb6dc, type: 3}
+    - {fileID: 1693228511013561479, guid: e05b8b36e27930c49a5c35234e07cb9e, type: 3}
+    - {fileID: 8616631959392101118, guid: 5bc538670537c4d469fde960fa5f3688, type: 3}
+    - {fileID: 8413198043049832429, guid: 1b21629f0fc6ea146bbdcbf9e86dac94, type: 3}
+    - {fileID: 6527418917415099103, guid: a635ed851e3bc5349b123d32ea595336, type: 3}
+    - {fileID: 884488408935512057, guid: a398ee277ab1c474fa34dc2db3a0a289, type: 3}
+    - {fileID: 2706207838253160496, guid: 4687f06f993c64e44badb4484ef434dc, type: 3}
+  - levelName: Level 10
+    minute: 2
+    seconds: 0
+    scale: 0.6
+    TotalObjects:
+    - {fileID: 1373240428354554602, guid: 3e690b49dd6e3d3408c56dea6e719ea6, type: 3}
+    - {fileID: 2770130374666807305, guid: 4c87a698956dde242b0b446ee7b507e1, type: 3}
+    - {fileID: 2255403945399151600, guid: ad68b001c2030b049832d971102c4cfc, type: 3}
+    - {fileID: 8616631959392101118, guid: 5bc538670537c4d469fde960fa5f3688, type: 3}
+    - {fileID: 1693228511013561479, guid: e05b8b36e27930c49a5c35234e07cb9e, type: 3}
+    - {fileID: 884488408935512057, guid: a398ee277ab1c474fa34dc2db3a0a289, type: 3}
+    - {fileID: 6527418917415099103, guid: a635ed851e3bc5349b123d32ea595336, type: 3}
+    - {fileID: 8413198043049832429, guid: 1b21629f0fc6ea146bbdcbf9e86dac94, type: 3}
+    - {fileID: 2475006633052269160, guid: 736e947707616d8448c904f4ea76d57e, type: 3}
+    - {fileID: 8536356754121545781, guid: 0e130dee7230db644a3c8cae09fef9e5, type: 3}
+    - {fileID: 4872304392028932528, guid: 0627f3167435b1c42a2ed942b8fabbbc, type: 3}
+    - {fileID: 3898637956639126770, guid: 1a5f196d83f61fa4b9616f2de8f2938f, type: 3}
+    - {fileID: 8282008758142349769, guid: f582c3f9a59b91e4b908e6572857fa8c, type: 3}
+    - {fileID: 9215198215451892907, guid: f0eb44a923dc7f14f9cc6139702b4fad, type: 3}
+    - {fileID: 4167331242565517331, guid: 1cb403090ae5c5f44be61f03d452eee3, type: 3}
+    - {fileID: 5150041876218519229, guid: 17ecee8b1ecf3754eb91d3d05977aa7f, type: 3}
